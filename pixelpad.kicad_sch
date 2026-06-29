@@ -791,7 +791,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 148.59 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -949,7 +949,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 148.59 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -983,10 +983,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "427ce871-0083-45cc-833f-a6cedee92cfa")
+			(uuid "427ce871-0083-45cc-833f-a6cedee92cfb")
 		)
 		(pin "1"
-			(uuid "82218867-5932-42eb-a7d2-a463c1f9eef8")
+			(uuid "82218867-5932-42eb-a7d2-a463c1f9eef9")
 		)
 		(instances
 			(project "pixelpad"
@@ -1029,7 +1029,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 148.59 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -1063,10 +1063,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "427ce871-0083-45cc-833f-a6cedee92cfa")
+			(uuid "427ce871-0083-45cc-833f-a6cedee92cfc")
 		)
 		(pin "1"
-			(uuid "82218867-5932-42eb-a7d2-a463c1f9eef8")
+			(uuid "82218867-5932-42eb-a7d2-a463c1f9eefa")
 		)
 		(instances
 			(project "pixelpad"
@@ -1109,7 +1109,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "XIAO:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
 			(at 87.63 100.33 0)
 			(hide yes)
 			(show_name no)
