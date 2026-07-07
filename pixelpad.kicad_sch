@@ -1819,8 +1819,8 @@
 		(uuid "04380026-d605-431b-b45f-fc4b73dc8599")
 	)
 	(rectangle
-		(start 101.6 50.8)
-		(end 142.24 91.44)
+		(start 103.0589 50.7999)
+		(end 143.6989 91.4399)
 		(stroke
 			(width 0)
 			(type default)
@@ -1843,8 +1843,8 @@
 		(uuid "a59ac724-8cf5-4664-a587-0e9e339f441d")
 	)
 	(rectangle
-		(start 16.51 92.71)
-		(end 81.28 129.54)
+		(start 16.51 90.17)
+		(end 81.28 127)
 		(stroke
 			(width 0)
 			(type default)
@@ -1866,7 +1866,7 @@
 	)
 	(text "RGB LED"
 		(exclude_from_sim no)
-		(at 71.882 125.984 0)
+		(at 49.784 131.318 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -1876,7 +1876,7 @@
 	)
 	(text "Oled Pins"
 		(exclude_from_sim no)
-		(at 121.666 95.758 0)
+		(at 123.1249 95.7579 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -1925,7 +1925,7 @@
 		(uuid "9442bbb9-b43e-4109-9f42-7cb3d3776562")
 	)
 	(junction
-		(at 48.26 101.6)
+		(at 48.26 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b111920b-dc8c-442b-95d5-c07f6106fb84")
@@ -1943,14 +1943,14 @@
 		(uuid "dd5ec002-ee39-46b7-a759-8056fbaa8ee4")
 	)
 	(junction
-		(at 48.26 120.65)
+		(at 48.26 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f904b098-7b6f-4c68-aecc-19ccffc5fabe")
 	)
 	(wire
 		(pts
-			(xy 48.26 120.65) (xy 34.29 120.65)
+			(xy 48.26 118.11) (xy 34.29 118.11)
 		)
 		(stroke
 			(width 0)
@@ -1970,7 +1970,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 36.83) (xy 116.84 36.83)
+			(xy 121.92 36.83) (xy 127 36.83)
 		)
 		(stroke
 			(width 0)
@@ -2000,7 +2000,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 24.13) (xy 157.48 24.13)
+			(xy 172.72 24.13) (xy 167.64 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2030,7 +2030,7 @@
 	)
 	(wire
 		(pts
-			(xy 20.32 111.76) (xy 26.67 111.76)
+			(xy 20.32 109.22) (xy 26.67 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2040,7 +2040,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 104.14) (xy 60.96 101.6)
+			(xy 60.96 101.6) (xy 60.96 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2070,7 +2070,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 39.37) (xy 161.29 39.37)
+			(xy 167.64 39.37) (xy 171.45 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2110,7 +2110,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 78.74) (xy 118.11 83.82)
+			(xy 119.5689 78.7399) (xy 119.5689 83.8199)
 		)
 		(stroke
 			(width 0)
@@ -2120,7 +2120,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 101.6) (xy 48.26 100.33)
+			(xy 48.26 99.06) (xy 48.26 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2130,7 +2130,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 34.29) (xy 161.29 34.29)
+			(xy 167.64 34.29) (xy 171.45 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2150,7 +2150,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 68.58) (xy 110.49 68.58)
+			(xy 109.4089 68.5799) (xy 111.9489 68.5799)
 		)
 		(stroke
 			(width 0)
@@ -2180,7 +2180,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 119.38) (xy 60.96 120.65)
+			(xy 60.96 116.84) (xy 60.96 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2240,7 +2240,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 111.76) (xy 53.34 111.76)
+			(xy 41.91 109.22) (xy 53.34 109.22)
 		)
 		(stroke
 			(width 0)
@@ -2280,7 +2280,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 24.13) (xy 116.84 24.13)
+			(xy 121.92 24.13) (xy 127 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2290,7 +2290,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 120.65) (xy 34.29 119.38)
+			(xy 34.29 118.11) (xy 34.29 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2300,7 +2300,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 26.67) (xy 175.26 26.67)
+			(xy 167.64 26.67) (xy 185.42 26.67)
 		)
 		(stroke
 			(width 0)
@@ -2350,7 +2350,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 101.6) (xy 34.29 101.6)
+			(xy 48.26 99.06) (xy 34.29 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2380,7 +2380,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 20.32) (xy 162.56 24.13)
+			(xy 172.72 20.32) (xy 172.72 24.13)
 		)
 		(stroke
 			(width 0)
@@ -2390,7 +2390,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 120.65) (xy 48.26 120.65)
+			(xy 60.96 118.11) (xy 48.26 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2400,7 +2400,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 29.21) (xy 116.84 29.21)
+			(xy 121.92 29.21) (xy 127 29.21)
 		)
 		(stroke
 			(width 0)
@@ -2410,7 +2410,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 68.58) (xy 134.62 68.58)
+			(xy 132.2689 68.5799) (xy 136.0789 68.5799)
 		)
 		(stroke
 			(width 0)
@@ -2420,7 +2420,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 101.6) (xy 48.26 101.6)
+			(xy 60.96 99.06) (xy 48.26 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2450,7 +2450,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 78.74) (xy 123.19 83.82)
+			(xy 124.6489 78.7399) (xy 124.6489 83.8199)
 		)
 		(stroke
 			(width 0)
@@ -2460,7 +2460,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 31.75) (xy 116.84 31.75)
+			(xy 121.92 31.75) (xy 127 31.75)
 		)
 		(stroke
 			(width 0)
@@ -2470,7 +2470,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 34.29) (xy 116.84 34.29)
+			(xy 121.92 34.29) (xy 127 34.29)
 		)
 		(stroke
 			(width 0)
@@ -2500,7 +2500,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 26.67) (xy 116.84 26.67)
+			(xy 121.92 26.67) (xy 127 26.67)
 		)
 		(stroke
 			(width 0)
@@ -2510,7 +2510,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 36.83) (xy 161.29 36.83)
+			(xy 167.64 36.83) (xy 171.45 36.83)
 		)
 		(stroke
 			(width 0)
@@ -2560,7 +2560,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 101.6) (xy 34.29 104.14)
+			(xy 34.29 99.06) (xy 34.29 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2604,7 +2604,7 @@
 	)
 	(global_label "COL1"
 		(shape input)
-		(at 111.76 24.13 180)
+		(at 121.92 24.13 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2614,7 +2614,7 @@
 		)
 		(uuid "1c621ca6-496f-4bb8-b87d-dad62ed62d87")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.9367 24.13 0)
+			(at 114.0967 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2626,7 +2626,7 @@
 			)
 		)
 		(property "Netclass" "Default"
-			(at 111.76 27.9718 0)
+			(at 121.92 27.9718 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2641,7 +2641,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 111.76 36.83 180)
+		(at 121.92 36.83 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2651,7 +2651,7 @@
 		)
 		(uuid "1ccbca84-c8a5-4705-b41f-de94de7d9b11")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.2672 36.83 0)
+			(at 115.4272 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2663,7 +2663,7 @@
 			)
 		)
 		(property "Netclass" "Default"
-			(at 111.76 40.6718 0)
+			(at 121.92 40.6718 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2702,7 +2702,7 @@
 	)
 	(global_label "ROW1"
 		(shape input)
-		(at 111.76 29.21 180)
+		(at 121.92 29.21 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2712,7 +2712,7 @@
 		)
 		(uuid "24ea2dd0-df92-4b04-8bcd-637768a371f9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.5134 29.21 0)
+			(at 113.6734 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2724,7 +2724,7 @@
 			)
 		)
 		(property "Netclass" "Default"
-			(at 111.76 33.0518 0)
+			(at 121.92 33.0518 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2763,7 +2763,7 @@
 	)
 	(global_label "COL2"
 		(shape input)
-		(at 161.29 34.29 0)
+		(at 171.45 34.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2773,7 +2773,7 @@
 		)
 		(uuid "370df98a-b50b-41be-b80e-ee1e523af936")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 169.1133 34.29 0)
+			(at 179.2733 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2787,7 +2787,7 @@
 	)
 	(global_label "EC11B"
 		(shape input)
-		(at 161.29 39.37 0)
+		(at 171.45 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2797,7 +2797,7 @@
 		)
 		(uuid "43a5b23f-cd55-47c1-b9cd-593044efd464")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.3832 39.37 0)
+			(at 180.5432 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2883,7 +2883,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 111.76 34.29 180)
+		(at 121.92 34.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2893,7 +2893,7 @@
 		)
 		(uuid "5c89f95d-32dd-4855-9716-7b6b38a416a1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.2067 34.29 0)
+			(at 115.3667 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2905,7 +2905,7 @@
 			)
 		)
 		(property "Netclass" "Default"
-			(at 111.76 38.1318 0)
+			(at 121.92 38.1318 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2992,7 +2992,7 @@
 	)
 	(global_label "SCL"
 		(shape input)
-		(at 118.11 83.82 270)
+		(at 119.5689 83.8199 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3002,7 +3002,7 @@
 		)
 		(uuid "b2acc89c-77e5-40d4-bbfb-e481dc545ea1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.11 90.3128 90)
+			(at 119.5689 90.3127 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3014,7 +3014,7 @@
 			)
 		)
 		(property "Netclass" "Default"
-			(at 121.9518 83.82 90)
+			(at 123.4107 83.8199 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3053,7 +3053,7 @@
 	)
 	(global_label "WS281B"
 		(shape input)
-		(at 20.32 111.76 90)
+		(at 20.32 109.22 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3063,7 +3063,7 @@
 		)
 		(uuid "c1bb411a-0884-4907-bc69-b145258ee91a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.32 101.2154 90)
+			(at 20.32 98.6754 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3077,7 +3077,7 @@
 	)
 	(global_label "EC11A"
 		(shape input)
-		(at 161.29 36.83 0)
+		(at 171.45 36.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3087,7 +3087,7 @@
 		)
 		(uuid "c6e7ff55-b5ff-4202-b67c-4e8d7af3f5c4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.2018 36.83 0)
+			(at 180.3618 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3101,7 +3101,7 @@
 	)
 	(global_label "ROW0"
 		(shape input)
-		(at 111.76 31.75 180)
+		(at 121.92 31.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3111,7 +3111,7 @@
 		)
 		(uuid "d0f07c31-3cff-4598-9276-f06977a80ff6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.5134 31.75 0)
+			(at 113.6734 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3123,7 +3123,7 @@
 			)
 		)
 		(property "Netclass" "Default"
-			(at 111.76 35.5918 0)
+			(at 121.92 35.5918 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3162,7 +3162,7 @@
 	)
 	(global_label "SDA"
 		(shape input)
-		(at 123.19 83.82 270)
+		(at 124.6489 83.8199 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3172,7 +3172,7 @@
 		)
 		(uuid "f2097f7c-378c-470c-ad2a-891b31bce2cd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.19 90.3733 90)
+			(at 124.6489 90.3732 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3184,7 +3184,7 @@
 			)
 		)
 		(property "Netclass" "Default"
-			(at 127.0318 83.82 90)
+			(at 128.4907 83.8199 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3199,7 +3199,7 @@
 	)
 	(global_label "COL0"
 		(shape input)
-		(at 111.76 26.67 180)
+		(at 121.92 26.67 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3209,7 +3209,7 @@
 		)
 		(uuid "fc949eab-6700-433a-aed7-8687ae87d71f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.9367 26.67 0)
+			(at 114.0967 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3221,7 +3221,7 @@
 			)
 		)
 		(property "Netclass" "Default"
-			(at 111.76 30.5118 0)
+			(at 121.92 30.5118 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3236,7 +3236,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:VCC")
-		(at 48.26 100.33 0)
+		(at 48.26 97.79 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3247,7 +3247,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b79daab-b0d8-4075-a5e2-46a53fa870ff")
 		(property "Reference" "#PWR04"
-			(at 48.26 104.14 0)
+			(at 48.26 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3258,7 +3258,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 48.26 95.25 0)
+			(at 48.26 92.71 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3268,7 +3268,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 100.33 0)
+			(at 48.26 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3279,7 +3279,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 100.33 0)
+			(at 48.26 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3290,7 +3290,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 48.26 100.33 0)
+			(at 48.26 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3554,7 +3554,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:WS2812B")
-		(at 34.29 111.76 0)
+		(at 34.29 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3565,7 +3565,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ba97920-c209-4d91-800a-f831a66e6512")
 		(property "Reference" "D1"
-			(at 45.72 105.3398 0)
+			(at 45.72 102.7998 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3575,7 +3575,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 45.72 107.8798 0)
+			(at 45.72 105.3398 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3585,7 +3585,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 35.56 119.38 0)
+			(at 35.56 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3597,7 +3597,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 36.83 121.285 0)
+			(at 36.83 118.745 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3609,7 +3609,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 34.29 111.76 0)
+			(at 34.29 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3642,7 +3642,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:GND")
-		(at 175.26 26.67 0)
+		(at 185.42 26.67 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3653,7 +3653,7 @@
 		(fields_autoplaced yes)
 		(uuid "3bb2bb2e-f2a8-4556-b1ac-6bc95ae6bfb0")
 		(property "Reference" "#PWR01"
-			(at 175.26 33.02 0)
+			(at 185.42 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3664,7 +3664,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 175.26 31.75 0)
+			(at 185.42 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3674,7 +3674,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.26 26.67 0)
+			(at 185.42 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3685,7 +3685,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 26.67 0)
+			(at 185.42 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3696,7 +3696,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 175.26 26.67 0)
+			(at 185.42 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3720,7 +3720,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:VCC")
-		(at 162.56 20.32 0)
+		(at 172.72 20.32 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3731,7 +3731,7 @@
 		(fields_autoplaced yes)
 		(uuid "5798e5c5-a732-47a2-b617-6226b1c72033")
 		(property "Reference" "#PWR03"
-			(at 162.56 24.13 0)
+			(at 172.72 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3742,7 +3742,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 162.56 15.24 0)
+			(at 172.72 15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3752,7 +3752,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 20.32 0)
+			(at 172.72 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3763,7 +3763,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 20.32 0)
+			(at 172.72 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3774,7 +3774,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 162.56 20.32 0)
+			(at 172.72 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3798,7 +3798,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:GND")
-		(at 48.26 120.65 0)
+		(at 48.26 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3809,7 +3809,7 @@
 		(fields_autoplaced yes)
 		(uuid "6202036f-061c-485f-a9ef-92b3cb6fdd57")
 		(property "Reference" "#PWR05"
-			(at 48.26 127 0)
+			(at 48.26 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3820,7 +3820,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 48.26 125.73 0)
+			(at 48.26 123.19 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3830,7 +3830,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 120.65 0)
+			(at 48.26 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3841,7 +3841,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 120.65 0)
+			(at 48.26 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3852,7 +3852,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 120.65 0)
+			(at 48.26 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4058,7 +4058,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:WS2812B")
-		(at 60.96 111.76 0)
+		(at 60.96 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4069,7 +4069,7 @@
 		(fields_autoplaced yes)
 		(uuid "713a766c-0855-4125-8546-68b6f5835b5d")
 		(property "Reference" "D2"
-			(at 72.39 105.3398 0)
+			(at 72.39 102.7998 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4079,7 +4079,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 72.39 107.8798 0)
+			(at 72.39 105.3398 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4089,7 +4089,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
-			(at 62.23 119.38 0)
+			(at 62.23 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4101,7 +4101,7 @@
 			)
 		)
 		(property "Datasheet" "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf"
-			(at 63.5 121.285 0)
+			(at 63.5 118.745 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4113,7 +4113,7 @@
 			)
 		)
 		(property "Description" "RGB LED with integrated controller"
-			(at 60.96 111.76 0)
+			(at 60.96 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4458,7 +4458,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:GND")
-		(at 134.62 68.58 0)
+		(at 136.0789 68.5799 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4469,7 +4469,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a3bbc19-85c4-4628-a380-bea409e6d404")
 		(property "Reference" "#PWR02"
-			(at 134.62 74.93 0)
+			(at 136.0789 74.9299 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4480,7 +4480,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 134.62 73.66 0)
+			(at 136.0789 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4490,7 +4490,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 68.58 0)
+			(at 136.0789 68.5799 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4501,7 +4501,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 68.58 0)
+			(at 136.0789 68.5799 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4512,7 +4512,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 134.62 68.58 0)
+			(at 136.0789 68.5799 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4536,7 +4536,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:MOUDLE-SEEEDUINO-XIAO")
-		(at 135.89 31.75 0)
+		(at 146.05 31.75 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4547,7 +4547,7 @@
 		(fields_autoplaced yes)
 		(uuid "8b483490-8820-49be-b6a0-838ea0ad4423")
 		(property "Reference" "U1"
-			(at 137.16 16.51 0)
+			(at 147.32 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4557,7 +4557,7 @@
 			)
 		)
 		(property "Value" "MOUDLE-SEEEDUINO-XIAO"
-			(at 137.16 19.05 0)
+			(at 147.32 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4567,7 +4567,7 @@
 			)
 		)
 		(property "Footprint" "XIAO:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"
-			(at 119.38 29.21 0)
+			(at 129.54 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4578,7 +4578,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 119.38 29.21 0)
+			(at 129.54 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4589,7 +4589,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 135.89 31.75 0)
+			(at 146.05 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4925,7 +4925,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:VCC")
-		(at 107.95 68.58 0)
+		(at 109.4089 68.5799 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4936,7 +4936,7 @@
 		(fields_autoplaced yes)
 		(uuid "a328cbe0-3708-4215-a5db-a56af59ffc29")
 		(property "Reference" "#PWR06"
-			(at 107.95 72.39 0)
+			(at 109.4089 72.3899 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4947,7 +4947,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 107.95 63.5 0)
+			(at 109.4089 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4957,7 +4957,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 68.58 0)
+			(at 109.4089 68.5799 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4968,7 +4968,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 68.58 0)
+			(at 109.4089 68.5799 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4979,7 +4979,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 107.95 68.58 0)
+			(at 109.4089 68.5799 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5003,7 +5003,7 @@
 	)
 	(symbol
 		(lib_id "KiCad-User:ER_OLEDM0.91_1x-I2C")
-		(at 120.65 68.58 90)
+		(at 122.1089 68.5799 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5014,7 +5014,7 @@
 		(fields_autoplaced yes)
 		(uuid "aa280af6-8ca8-4802-88e6-fcfe0483b873")
 		(property "Reference" "U2"
-			(at 120.65 55.88 90)
+			(at 122.1089 55.8799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5024,7 +5024,7 @@
 			)
 		)
 		(property "Value" "ER_OLEDM0.91_1x-I2C"
-			(at 120.65 58.42 90)
+			(at 122.1089 58.4199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5034,7 +5034,7 @@
 			)
 		)
 		(property "Footprint" "Display:ER_OLEDM0.91_1x-I2C"
-			(at 133.35 50.546 0)
+			(at 134.8089 50.5459 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5045,7 +5045,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
-			(at 135.382 25.908 0)
+			(at 136.8409 25.9079 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5056,7 +5056,7 @@
 			)
 		)
 		(property "Description" "SSD1306 OLED module, 0.91 inch, 128x32, I2C"
-			(at 137.414 41.91 0)
+			(at 138.8729 41.9099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
