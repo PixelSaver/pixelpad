@@ -1,0 +1,201 @@
+(footprint "ER_OLEDM0.91_1x-I2C"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SSD1306 OLED module, 0.91 inch, 128x32, I2C (https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf)")
+	(tags "EastRising")
+	(property "Reference" "REF**"
+		(at -20.484 0.126 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "cbbb4c55-ee01-4220-9793-53331cf1453c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ER_OLEDM0.91_1x-I2C"
+		(at 19.516 0.316 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "798da4cd-1524-48f8-af2c-17a5f4003453")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2cac025-e2c4-4aed-a9da-4fe66ddb40b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8c96be64-6255-4d21-ab70-a7b5aad450c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -17.984 5.506)
+		(end -16.604 5.506)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "660fc3d4-1834-43ef-8375-dde5dba03caa")
+	)
+	(fp_line
+		(start -16.604 4.126)
+		(end -16.604 5.506)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6a8a3dd2-0e61-4f28-a5e5-cd52f04a1000")
+	)
+	(fp_rect
+		(start -19.484 -5.684)
+		(end 18.516 6.316)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "b7bea973-06c3-4de2-9c64-f3bf0dec47eb")
+	)
+	(fp_rect
+		(start -12.384 -3.584)
+		(end 10 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "363aaf57-dff7-40ac-b8fa-f8457fa45409")
+	)
+	(fp_rect
+		(start -19.734 -5.934)
+		(end 18.766 6.566)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c120e72b-8ed5-49c0-bf58-4018e08ed1d5")
+	)
+	(fp_line
+		(start -19.084 4.126)
+		(end -19.484 3.726)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "5b70056b-da92-4830-b408-295ee35d4ff8")
+	)
+	(fp_line
+		(start -19.084 4.126)
+		(end -19.484 4.526)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "8a90a2e7-38b5-46a6-89f1-e99af4fc5997")
+	)
+	(fp_rect
+		(start -19.484 -5.684)
+		(end 18.516 6.316)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "6238f9e7-ce41-41ec-b699-68e07fc28f97")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.484 0.316 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "010d495a-055d-4ef4-9085-dd11f2a26b90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at -17.984 4.126 90)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1)
+		(uuid "97b877cb-eebf-41d8-82f9-1039e75f2c04")
+	)
+	(pad "2" thru_hole circle
+		(at -17.984 1.586 90)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b924565d-0772-424c-aa61-fae46c03a993")
+	)
+	(pad "3" thru_hole circle
+		(at -17.984 -0.954 90)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c7f99277-8282-4bab-83f3-9f57da9d8e1f")
+	)
+	(pad "4" thru_hole circle
+		(at -17.984 -3.494 90)
+		(size 1.7 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a66ec7fd-29dd-4b8c-afd9-a4ae11094bc5")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Display.3dshapes/ER_OLEDM0.91_1x-I2C.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
