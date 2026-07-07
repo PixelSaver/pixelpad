@@ -1,0 +1,233 @@
+Info: Processing symbol 'D2:LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm'.
+Info: Processing symbol 'D7:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'SW4:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'U1:XIAO:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM'.
+Info: Processing symbol 'SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D8:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D6:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'SW5:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'U2:Display:ER_OLEDM0.91_1x-I2C'.
+Info: Processing symbol 'SW6:Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'D5:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D1:LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm'.
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Updated SW4 sheetfile to 'pixelpad.kicad_sch'.
+Connected SW5 pin 2 to Net-(D6-A).
+Updated SW3 unit metadata.
+Added SW4 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW4.
+Changed SW4 value from SW_Cherry_MX_1.00u_PCB to SW_Push_45deg.
+Updated SW4 symbol association from  to /2fa19b8c-348f-4f40-be8b-70b7ba40c91b.
+Updated SW4 fields.
+Updated SW4 sheetname to '/'.
+Updated SW5 sheetfile to 'pixelpad.kicad_sch'.
+Changed SW5 value from SW_Cherry_MX_1.00u_PCB to SW_Push_45deg.
+Updated SW5 sheetname to '/'.
+Connected SW4 pin 1 to COL0.
+Connected SW4 pin 2 to Net-(D7-A).
+Updated SW3 sheetfile to 'pixelpad.kicad_sch'.
+Updated SW4 unit metadata.
+Updated SW5 fields.
+Added SW5 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Updated SW5 symbol association from  to /9ce40fa9-c626-4833-b9ec-6a5909773194.
+Changed REF** reference designator to SW5.
+Connected SW2 pin 2 to Net-(D5-A).
+Updated SW1 sheetname to '/'.
+Updated SW1 sheetfile to 'pixelpad.kicad_sch'.
+Add net COL0.
+Connected SW1 pin 1 to COL0.
+Connected SW1 pin 2 to Net-(D4-A).
+Updated SW1 unit metadata.
+Added SW2 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW2.
+Changed SW2 value from SW_Cherry_MX_1.00u_PCB to SW_Push_45deg.
+Updated SW2 symbol association from  to /23071bf7-0335-42a5-91d1-468c9dfea9d4.
+Updated SW2 fields.
+Updated SW2 sheetname to '/'.
+Updated SW2 sheetfile to 'pixelpad.kicad_sch'.
+Connected SW3 pin 2 to Net-(D8-A).
+Add net COL1.
+Connected SW2 pin 1 to COL1.
+Updated SW2 unit metadata.
+Added SW3 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed REF** reference designator to SW3.
+Changed SW3 value from SW_Cherry_MX_1.00u_PCB to SW_Push_45deg.
+Updated SW3 symbol association from  to /2f84e57b-c0e6-414e-879e-034b9be3cad0.
+Updated SW3 fields.
+Updated SW3 sheetname to '/'.
+Added SW6 (footprint 'Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm').
+Add net COL2.
+Connected SW3 pin 1 to COL2.
+Connected U1 pin 3 to ROW1.
+Connected U1 pin 5 to SDA.
+Add net SCL.
+Connected U1 pin 6 to SCL.
+Connected U1 pin 1 to COL1.
+Connected U1 pin 4 to ROW0.
+Connected U1 pin 13 to GND.
+Connected U1 pin 9 to EC11A.
+Connected U1 pin 8 to EC11B.
+Add net unconnected-(U1-3V3-Pad12).
+Connected U1 pin 12 to unconnected-(U1-3V3-Pad12).
+Add net unconnected-(U1-PA6_A10_D10_MOSI-Pad11).
+Connected U1 pin 11 to unconnected-(U1-PA6_A10_D10_MOSI-Pad11).
+Connected U1 pin 14 to VCC.
+Add net SDA.
+Updated U1 unit metadata.
+Added U2 (footprint 'Display:ER_OLEDM0.91_1x-I2C').
+Changed REF** reference designator to U2.
+Updated U2 symbol association from  to /aa280af6-8ca8-4802-88e6-fcfe0483b873.
+Updated U2 fields.
+Updated U2 sheetname to '/'.
+Updated U2 sheetfile to 'pixelpad.kicad_sch'.
+Updated U2 footprint filters to 'ER?OLEDM0.91?1x?I2C*'.
+Connected U2 pin 4 to SDA.
+Connected U2 pin 3 to SCL.
+Connected U2 pin 1 to GND.
+Connected U2 pin 2 to VCC.
+Updated U2 unit metadata.
+Connected SW6 pin A to EC11A.
+Updated SW5 unit metadata.
+Changed REF** reference designator to SW1.
+Changed REF** reference designator to SW6.
+Changed SW6 value from RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm to RotaryEncoder_Switch.
+Updated SW6 symbol association from  to /9e446ba8-2fe6-4425-a393-3cd89fda33c7.
+Updated SW6 fields.
+Updated SW6 sheetname to '/'.
+Updated SW6 sheetfile to 'pixelpad.kicad_sch'.
+Updated SW6 footprint filters to 'RotaryEncoder*Switch*'.
+Connected SW6 pin C to GND.
+Connected SW6 pin S2 to EC11SWA.
+Connected SW6 pin S1 to COL2.
+Add net EC11A.
+Connected SW5 pin 1 to COL1.
+Add net EC11B.
+Connected SW6 pin B to EC11B.
+Updated SW6 unit metadata.
+Added U1 (footprint 'XIAO:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM').
+Changed >NAME reference designator to U1.
+Changed U1 value from &gt;VALUE to MOUDLE-SEEEDUINO-XIAO.
+Updated U1 symbol association from  to /8b483490-8820-49be-b6a0-838ea0ad4423.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'pixelpad.kicad_sch'.
+Connected U1 pin 2 to COL0.
+Connected U1 pin 10 to COL2.
+Add net unconnected-(U1-PB08_A6_D6_TX-Pad7).
+Connected U1 pin 7 to unconnected-(U1-PB08_A6_D6_TX-Pad7).
+Connected D3 pin 2 to EC11SWA.
+Connected D2 pin 2 to unconnected-(D2-DOUT-Pad2).
+Connected D2 pin 3 to GND.
+Connected D2 pin 1 to VCC.
+Updated D2 unit metadata.
+Added D3 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Changed REF** reference designator to D3.
+Changed D3 value from D_DO-35_SOD27_P7.62mm_Horizontal to 1N914.
+Updated D3 symbol association from  to /792c116a-6566-42b5-aa79-59eae513b3f3.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Updated D3 sheetfile to 'pixelpad.kicad_sch'.
+Updated D3 footprint filters to 'D*DO?35*'.
+Add net EC11SWA.
+Add net unconnected-(D2-DOUT-Pad2).
+Add net ROW0.
+Connected D3 pin 1 to ROW0.
+Updated D3 unit metadata.
+Added D4 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Changed REF** reference designator to D4.
+Changed D4 value from D_DO-35_SOD27_P7.62mm_Horizontal to 1N914.
+Updated D4 symbol association from  to /817961b9-627e-49da-9436-5d94f2f039e6.
+Updated D4 fields.
+Updated D4 sheetname to '/'.
+Updated D4 sheetfile to 'pixelpad.kicad_sch'.
+Updated D4 footprint filters to 'D*DO?35*'.
+Add net Net-(D4-A).
+Updated SW1 fields.
+Connected D1 pin 2 to Net-(D1-DOUT).
+Added D1 (footprint 'LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm').
+Changed REF** reference designator to D1.
+Changed D1 value from LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm to WS2812B.
+Updated D1 symbol association from  to /3ba97920-c209-4d91-800a-f831a66e6512.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'pixelpad.kicad_sch'.
+Updated D1 footprint filters to 'LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*'.
+Add net WS281B.
+Connected D1 pin 4 to WS281B.
+Add net GND.
+Connected D1 pin 3 to GND.
+Add net Net-(D1-DOUT).
+Connected D4 pin 2 to Net-(D4-A).
+Add net VCC.
+Connected D1 pin 1 to VCC.
+Updated D1 unit metadata.
+Added D2 (footprint 'LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm to WS2812B.
+Updated D2 symbol association from  to /713a766c-0855-4125-8546-68b6f5835b5d.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'pixelpad.kicad_sch'.
+Updated D2 footprint filters to 'LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*'.
+Connected D2 pin 4 to Net-(D1-DOUT).
+Changed REF** reference designator to D8.
+Added D7 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Changed REF** reference designator to D7.
+Changed D7 value from D_DO-35_SOD27_P7.62mm_Horizontal to 1N914.
+Updated D7 symbol association from  to /6ae544f5-e1cd-4416-8097-bc29c3c24c3f.
+Updated D7 fields.
+Updated D7 sheetname to '/'.
+Updated D7 sheetfile to 'pixelpad.kicad_sch'.
+Updated D7 footprint filters to 'D*DO?35*'.
+Add net Net-(D7-A).
+Connected D7 pin 2 to Net-(D7-A).
+Connected D7 pin 1 to ROW1.
+Updated D7 unit metadata.
+Added D8 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Updated D6 unit metadata.
+Changed D8 value from D_DO-35_SOD27_P7.62mm_Horizontal to 1N914.
+Updated D8 symbol association from  to /84dc79f9-d782-4e70-91a7-577dc94dd896.
+Updated D8 fields.
+Updated D8 sheetname to '/'.
+Updated D8 sheetfile to 'pixelpad.kicad_sch'.
+Updated D8 footprint filters to 'D*DO?35*'.
+Add net Net-(D8-A).
+Connected D8 pin 2 to Net-(D8-A).
+Connected D8 pin 1 to ROW1.
+Updated D8 unit metadata.
+Added SW1 (footprint 'Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB').
+Changed SW1 value from SW_Cherry_MX_1.00u_PCB to SW_Push_45deg.
+Updated SW1 symbol association from  to /e4d34994-3d8a-4bc2-81f8-9bc0ac61c075.
+Connected D5 pin 1 to ROW0.
+Updated D4 unit metadata.
+Added D5 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Changed REF** reference designator to D5.
+Changed D5 value from D_DO-35_SOD27_P7.62mm_Horizontal to 1N914.
+Updated D5 symbol association from  to /8e2f872f-6950-437e-a194-c49201b867b4.
+Updated D5 fields.
+Updated D5 sheetname to '/'.
+Updated D5 sheetfile to 'pixelpad.kicad_sch'.
+Updated D5 footprint filters to 'D*DO?35*'.
+Add net Net-(D5-A).
+Connected D5 pin 2 to Net-(D5-A).
+Connected D4 pin 1 to ROW0.
+Updated D5 unit metadata.
+Added D6 (footprint 'Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal').
+Changed REF** reference designator to D6.
+Changed D6 value from D_DO-35_SOD27_P7.62mm_Horizontal to 1N914.
+Updated D6 symbol association from  to /fa35f0ea-e8eb-40b3-be11-7cdb80af10d2.
+Updated D6 fields.
+Updated D6 sheetname to '/'.
+Updated D6 sheetfile to 'pixelpad.kicad_sch'.
+Updated D6 footprint filters to 'D*DO?35*'.
+Add net Net-(D6-A).
+Connected D6 pin 2 to Net-(D6-A).
+Add net ROW1.
+Connected D6 pin 1 to ROW1.
+Warning: No net found for component SW6 pad MP (no pin MP in symbol).
+Warning: No net found for component SW6 pad MP (no pin MP in symbol).
+
+
+Info: Total warnings: 2, errors: 0.

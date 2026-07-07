@@ -517,7 +517,26 @@
       "version": 5
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "COL0": [
+        "Default"
+      ],
+      "COL1": [
+        "Default"
+      ],
+      "ROW0": [
+        "Default"
+      ],
+      "ROW1": [
+        "Default"
+      ],
+      "SCL": [
+        "Default"
+      ],
+      "SDA": [
+        "Default"
+      ]
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
