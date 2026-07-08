@@ -2048,8 +2048,8 @@
 		(uuid "5903b33a-0439-43cd-88bf-73b3742b6236")
 	)
 	(no_connect
-		(at 167.64 31.75)
-		(uuid "827aa23b-553b-4a74-9cdf-736c539d61dc")
+		(at 127 29.21)
+		(uuid "736b93d5-e99e-4da0-aeab-f8d334d64cd5")
 	)
 	(no_connect
 		(at 167.64 29.21)
@@ -2194,16 +2194,6 @@
 			(type default)
 		)
 		(uuid "3e10434e-7df9-493c-8cac-7300624abf0f")
-	)
-	(wire
-		(pts
-			(xy 121.92 29.21) (xy 127 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f2b213f-7929-48e5-81bf-5855d8abf9c9")
 	)
 	(wire
 		(pts
@@ -2414,6 +2404,16 @@
 			(type default)
 		)
 		(uuid "966c222a-097e-499d-99c5-fb581bce4284")
+	)
+	(wire
+		(pts
+			(xy 167.64 31.75) (xy 171.45 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c907f4c-602d-4438-bc87-92efb38e6b7a")
 	)
 	(wire
 		(pts
@@ -2824,6 +2824,43 @@
 			)
 		)
 	)
+	(global_label "ROW0"
+		(shape input)
+		(at 171.45 31.75 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2c5cf6e5-e61b-47e6-a6ec-213f54ad066a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 179.6966 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Netclass" "Default"
+			(at 171.45 35.5918 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "EC11SWB"
 		(shape input)
 		(at 78.74 33.02 270)
@@ -3172,43 +3209,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "ROW0"
-		(shape input)
-		(at 121.92 29.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d0f07c31-3cff-4598-9276-f06977a80ff6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.6734 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Netclass" "Default"
-			(at 121.92 33.0518 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify right)
 			)
 		)
 	)
