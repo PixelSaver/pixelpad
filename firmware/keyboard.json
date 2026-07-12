@@ -11,12 +11,11 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["C9", "C3", "C6"],
-        "rows": ["D10", "D2"],
-        "diode_direction": "COL2ROW"
+        "cols": ["D9", "D3", "D6"],
+        "rows": ["D10", "D2"]
     },
     "processor": "RP2040",
-    "url": "",
+    "url": "https://github.com/pixelsaver/pixelpad",
     "usb": {
         "device_version": "1.0.0",
         "pid": "0x0000",
