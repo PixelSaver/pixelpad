@@ -11,8 +11,8 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["D9", "D3", "D6"],
-        "rows": ["D10", "D2"]
+        "cols": ["GP4", "GP29", "GP0"],
+        "rows": ["GP3", "GP28"]
     },
     "processor": "RP2040",
     "url": "https://github.com/pixelsaver/pixelpad",

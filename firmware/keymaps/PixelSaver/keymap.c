@@ -5,14 +5,14 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     /*
-     * ┌───┬───┬───┐
-     * │ 1 │ 2 │ * │
-     * ├───┼───┼───┤
+     * ┌───┬───┐
+     * │ 1 │ 2 │
+     * ├───┼───┼───┐
      * │ 3 │ 4 │ 5 │
      * └───┴───┴───┘
      */
     [0] = LAYOUT(
-        KC_P1,   KC_P2,   KC_NO,
+        KC_P1,   KC_P2,
         KC_P3,   KC_P4,   KC_P5
     )
 };
