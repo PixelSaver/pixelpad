@@ -15,9 +15,11 @@ It was made for the Hackclub organization's Hackpad YSWS, being my first hardwar
 
 Everything bolts together using 5 M3 bolts (one of the bolts isn't 16, its 12 which will need some cutting once it gets shipped). The bottom of the case makes a 5 degree tilt so that the screen is easier read. 
 
-Printed in 3 separate pieces, the bottom case, the switch plate in the middle, and the top cover.
+Printed in 4 separate pieces, the bottom case, the switch plate in the middle, the top cover, and a knob.
 
-<img src="assets/cad_screenshot.png" alt="Cad Screenshot" width="600"/>
+<img src="assets/cad1.png" alt="Cad Screenshot" width="600"/>
+<img src="assets/cad2.png" alt="Cad Screenshot" width="600"/>
+<img src="assets/cad3.png" alt="Cad Screenshot" width="600"/>
 Made in OnShape!! Screw Fusion360 and their predatory pricing tactics!
 
 ## PCB
@@ -48,3 +50,4 @@ For now, I can pray that the features are there, and that I can run some code fo
 - 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
 - 1x Case (3 printed parts)
+- 1x Knob (Printed)
