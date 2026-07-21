@@ -1,8 +1,8 @@
 # PixelPad
 
-PixelPad is a 5 key macropad with a rotary encoder, an OLED screen, and two LEDs. It uses QMK firmware.
+PixelPad is a 5 key macropad with a rotary encoder, an OLED screen, and two LEDs. It's my first piece of hardware I've ever made (I don't count building a pc), so I'm really excited to use seomthing made by me. I tried to make it as compact as possible while still fitting everything.
 
-It was made for the Hackclub organization's Hackpad YSWS, being my first hardware project ever. I took major inspiration from the example [OrpheusPad](https://github.com/hackclub/hackpad/blob/main/hackpads/orpheuspad), so check that project out too! 
+It was made for the Hackclub organization's Hackpad YSWS. I took major inspiration from the example [OrpheusPad](https://github.com/hackclub/hackpad/blob/main/hackpads/orpheuspad), so check that project out too! 
 
 ## Features
 - 128x32 OLED Display
