@@ -1,6 +1,6 @@
 (fp_lib_table
 	(version 7)
-	(lib (name "XIAO") (type "KiCad") (uri "${KIPRJMOD}/kicad_care_package/footprints.pretty/") (options "") (descr ""))
+	(lib (name "XIAO") (type "KiCad") (uri "${KIPRJMOD}/kicad_care_package/footprints.pretty") (options "") (descr ""))
 	(lib (name "oled") (type "KiCad") (uri "${KIPRJMOD}/oled.pretty") (options "") (descr ""))
 	(lib (name "silkscreen") (type "KiCad") (uri "${KIPRJMOD}/silkscreen.pretty") (options "") (descr ""))
 )

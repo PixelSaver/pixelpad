@@ -3419,7 +3419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "XIAO:PinHeader_1x04_P2.54mm_Vertical"
 			(at 124.46 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -3688,7 +3688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "XIAO:SW_Cherry_MX_1.00u_PCB"
 			(at 59.69 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -3769,7 +3769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "XIAO:SK6812MINI-E_fixed"
 			(at 39.37 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -3857,7 +3857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "XIAO:SW_Cherry_MX_1.00u_PCB"
 			(at 39.37 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -4119,7 +4119,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "XIAO:SW_Cherry_MX_1.00u_PCB"
 			(at 59.69 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -4435,7 +4435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SK6812MINI-E - 3.2x2.8x1.78mm"
+		(property "Footprint" "XIAO:SK6812MINI-E_fixed"
 			(at 66.04 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5301,7 +5301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "XIAO:SW_Cherry_MX_1.00u_PCB"
 			(at 39.37 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -5381,7 +5381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "XIAO:SW_Cherry_MX_1.00u_PCB"
 			(at 80.01 62.23 0)
 			(hide yes)
 			(show_name no)
